@@ -1,0 +1,17 @@
+What is Hyper Text Markup Language (HTML)?; PASS
+
+What is Cascading Style Sheet (CSS)?; PASS
+
+What is a domain?; PASS
+
+What is a subdomain?; PASS
+
+What is a server?; PASS
+
+What is a client?; PASS
+
+What is a DNS?; PASS
+
+Explain what happens if I enter "google.com" into a url bar and hit enter.; PASS
+
+What is a cookie?; PASS
