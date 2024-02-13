@@ -1,0 +1,11 @@
+What is object oriented programming (OOP)?; PASS
+
+What are the four pillars of Object Oriented Programming (OOP)?; PASS
+
+What is abstraction?; PASS
+
+What is polymorphism?; PASS
+
+What is inheritance?; PASS
+
+What is encapsulation?; PASS
