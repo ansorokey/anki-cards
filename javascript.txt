@@ -1,3 +1,5 @@
 What is a promise?; PASS
 
 What is JSON?; PASS
+
+What is event propogation?; PASS

@@ -2,16 +2,24 @@ What is Hyper Text Markup Language (HTML)?; PASS
 
 What is Cascading Style Sheet (CSS)?; PASS
 
+What does the box model represet in CSS?; PASS
+
+What is the Document Object Model (DOM)?; PASS
+
 What is a domain?; PASS
 
 What is a subdomain?; PASS
 
 What is a server?; PASS
 
-What is a client?; PASS
+What is a client?;
 
-What is a DNS?; PASS
+What is a Domain name Server (DNS)?; PASS
 
 Explain what happens if I enter "google.com" into a url bar and hit enter.; PASS
 
 What is a cookie?; PASS
+
+What is cross-site scripting (XSS)?; PASS
+
+How can you prevent cross-site scripting (XSS)?; PASS

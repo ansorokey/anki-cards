@@ -1,6 +1,6 @@
 What is object oriented programming (OOP)?; PASS
 
-What are the four pillars of Object Oriented Programming (OOP)?; PASS
+What are the four pillars of Object Oriented Programming (OOP)?; A PIE - Abstraction, Polymorphism, Inheritance, Encapsulation
 
 What is abstraction?; PASS
 
@@ -9,3 +9,5 @@ What is polymorphism?; PASS
 What is inheritance?; PASS
 
 What is encapsulation?; PASS
+
+What is a data type?; PASS

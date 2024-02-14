@@ -2,9 +2,11 @@ What is a data structure?; PASS
 
 What is an algorithm?; PASS
 
-What is an array?; PASS
+What is an array/list?; An array is a sequential collection of data where elements are indexed by their position.
 
 What is a hashset/hashmap?; PASS
+
+What is a node?; PASS
 
 What is a linked list?; PASS
 
