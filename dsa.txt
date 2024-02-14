@@ -1,0 +1,29 @@
+What is a data structure?; PASS
+
+What is an algorithm?; PASS
+
+What is an array?; PASS
+
+What is a hashset/hashmap?; PASS
+
+What is a linked list?; PASS
+
+What is a doubly linked list?; PASS
+
+What is a tree?; PASS
+
+What is a binary tree?; PASS
+
+What is a binary search tree?; PASS
+
+What is the runtime of a bubble sort?; PASS
+
+Demonstrate a bubble sort.; PASS
+
+What is the runtime of a quicksort?; PASS
+
+Demonstrate a quicksort.; PASS
+
+What is the runtime of a merge sort?; PASS
+
+Demonstrate a merge sort.; PASS
