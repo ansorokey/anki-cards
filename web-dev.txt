@@ -23,3 +23,5 @@ What is a cookie?; PASS
 What is cross-site scripting (XSS)?; PASS
 
 How can you prevent cross-site scripting (XSS)?; PASS
+
+What is CORS?; PASS
