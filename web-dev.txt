@@ -10,18 +10,24 @@ What is a domain?; PASS
 
 What is a subdomain?; PASS
 
-What is a server?; PASS
+What is a server?; A server is a computer or program that sends information to another.
 
-What is a client?;
+What is a client?; A client is a computer or program that requests information from another.
 
 What is a Domain name Server (DNS)?; PASS
 
 Explain what happens if I enter "google.com" into a url bar and hit enter.; PASS
 
-What is a cookie?; PASS
+What is a cookie?; A cookie is small piece of text-data. An http cookie is used to store information on a web browser. They can store a user's info, username, site preferences, and so on.
+
+What is local storage;? Local storage is a way to store larger quantities of information on a web browser. Local storage persists between windows opening and closing.
+
+What is session storage;? Session storage is a way to store larger quantities of information on a web browser. Session storage is only stored for the duration of the site visit.
 
 What is cross-site scripting (XSS)?; PASS
 
 How can you prevent cross-site scripting (XSS)?; PASS
 
 What is CORS?; PASS
+
+What is CSRF?; PASS
