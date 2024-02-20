@@ -10,9 +10,9 @@ What is a domain?; PASS
 
 What is a subdomain?; PASS
 
-What is a server?; A server is a computer or program that sends information to another.
+What is a server?; A server is a computer or program that sends information to another. A server can also be a client.
 
-What is a client?; A client is a computer or program that requests information from another.
+What is a client?; A client is a computer or program that requests information from another. A client can also be a server.
 
 What is a Domain name Server (DNS)?; PASS
 
